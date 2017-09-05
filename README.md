@@ -7,7 +7,9 @@ All data associated with each composition is structured as a row so that the fie
 The following column headings are used in the CSV spreadsheet:
 
 | Decade | Date | Venue | City | State | Country | Coverage | 
+
 | Composer Name | Variant Title | Work Title | Concert Info | Works Info | Conductor/Performer |
+
 | Holdings 1 | RISM Sigla 1 | Holdings 2 | RISM Sigla 2 | Resource URL | Record URL |
 
 The XML is structured this way:
