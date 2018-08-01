@@ -54,7 +54,6 @@ The XML is structured this way:
 </performances>
 ```
 
-This dataset is shared under a CC0 1.0 Universal license.
-
+This dataset is shared under a CC0 1.0 Universal license. If you use this dataset in your work, please acknowledge and attribute appropriately.
 
 
